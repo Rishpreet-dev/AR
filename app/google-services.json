@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533794439007",
+    "project_id": "ar-and-object-detection",
+    "storage_bucket": "ar-and-object-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533794439007:android:e6e5b0e397c8e9031280ea",
+        "android_client_info": {
+          "package_name": "com.example.ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533794439007-3t6bctirck49g9i1p4sancd2nuagqfvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRmNdRPno33i-R1rvn_pSl3g7wf44Ycc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533794439007-3t6bctirck49g9i1p4sancd2nuagqfvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

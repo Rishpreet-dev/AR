@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <attr format="reference" name="appBarLayoutStyle"/>
+    <attr format="reference" name="badgeStyle"/>
+    <attr format="reference" name="bottomAppBarStyle"/>
+    <attr format="reference" name="bottomNavigationStyle"/>
+    <attr format="reference" name="bottomSheetDialogTheme"/>
+    <attr format="reference" name="bottomSheetStyle"/>
+    <attr format="reference" name="checkedIcon"/>
+    <attr format="color" name="checkedIconTint"/>
+    <attr format="reference" name="chipGroupStyle"/>
+    <attr format="reference" name="chipStandaloneStyle"/>
+    <attr format="reference" name="chipStyle"/>
+    <attr name="colorOnBackground"/>
+    <attr format="color" name="colorOnError"/>
+    <attr format="color" name="colorOnPrimary"/>
+    <attr format="color" name="colorOnPrimarySurface"/>
+    <attr format="color" name="colorOnSecondary"/>
+    <attr format="color" name="colorOnSurface"/>
+    <attr format="color" name="colorPrimarySurface"/>
+    <attr format="color" name="colorPrimaryVariant"/>
+    <attr format="color" name="colorSecondary"/>
+    <attr format="color" name="colorSecondaryVariant"/>
+    <attr format="color" name="colorSurface"/>
+    <attr format="color" name="elevationOverlayColor"/>
+    <attr format="boolean" name="elevationOverlayEnabled"/>
+    <attr format="boolean" name="ensureMinTouchTargetSize"/>
+    <attr format="reference" name="extendedFloatingActionButtonStyle"/>
+    <attr format="reference" name="floatingActionButtonStyle"/>
+    <attr format="reference" name="hideMotionSpec"/>
+    <attr format="boolean" name="isMaterialTheme"/>
+    <attr format="reference" name="itemShapeAppearance"/>
+    <attr format="reference" name="itemShapeAppearanceOverlay"/>
+    <attr format="color" name="itemTextColor"/>
+    <attr format="reference" name="materialButtonOutlinedStyle"/>
+    <attr format="reference" name="materialButtonStyle"/>
+    <attr format="reference" name="materialButtonToggleGroupStyle"/>
+    <attr format="reference" name="materialCalendarDay"/>
+    <attr format="reference" name="materialCalendarFullscreenTheme"/>
+    <attr format="reference" name="materialCalendarHeaderConfirmButton"/>
+    <attr format="reference" name="materialCalendarHeaderDivider"/>
+    <attr format="reference" name="materialCalendarHeaderLayout"/>
+    <attr format="reference" name="materialCalendarHeaderSelection"/>
+    <attr format="reference" name="materialCalendarHeaderTitle"/>
+    <attr format="reference" name="materialCalendarHeaderToggleButton"/>
+    <attr format="reference" name="materialCalendarStyle"/>
+    <attr format="reference" name="materialCalendarTheme"/>
+    <attr format="reference" name="materialCardViewStyle"/>
+    <attr format="reference" name="materialThemeOverlay"/>
+    <attr format="dimension" name="minTouchTargetSize"/>
+    <attr format="reference" name="navigationViewStyle"/>
+    <attr format="reference" name="popupMenuBackground"/>
+    <attr format="reference" name="progressIndicatorStyle"/>
+    <attr format="color" name="rippleColor"/>
+    <attr format="color|reference" name="scrimBackground"/>
+    <attr format="boolean" name="selectionRequired"/>
+    <attr format="reference" name="shapeAppearanceLargeComponent"/>
+    <attr format="reference" name="shapeAppearanceMediumComponent"/>
+    <attr format="reference" name="shapeAppearanceSmallComponent"/>
+    <attr format="reference" name="showMotionSpec"/>
+    <attr format="boolean" name="singleSelection"/>
+    <attr format="reference" name="sliderStyle"/>
+    <attr format="color" name="strokeColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="reference" name="tabStyle"/>
+    <attr format="reference" name="textAppearanceBody1"/>
+    <attr format="reference" name="textAppearanceBody2"/>
+    <attr format="reference" name="textAppearanceButton"/>
+    <attr format="reference" name="textAppearanceCaption"/>
+    <attr format="reference" name="textAppearanceHeadline1"/>
+    <attr format="reference" name="textAppearanceHeadline2"/>
+    <attr format="reference" name="textAppearanceHeadline3"/>
+    <attr format="reference" name="textAppearanceHeadline4"/>
+    <attr format="reference" name="textAppearanceHeadline5"/>
+    <attr format="reference" name="textAppearanceHeadline6"/>
+    <attr format="boolean" name="textAppearanceLineHeightEnabled"/>
+    <attr format="reference" name="textAppearanceOverline"/>
+    <attr format="reference" name="textAppearanceSubtitle1"/>
+    <attr format="reference" name="textAppearanceSubtitle2"/>
+    <attr format="reference" name="textInputStyle"/>
+    <attr format="dimension" name="themeLineHeight"/>
+    <attr format="reference" name="tooltipStyle"/>
+    <attr format="color" name="trackColor"/>
+    <attr format="reference" name="transitionShapeAppearance"/>
+    <attr format="boolean" name="useMaterialThemeColors"/>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <color name="design_bottom_navigation_shadow_color">#14000000</color>
+    <color name="design_dark_default_color_background">#121212</color>
+    <color name="design_dark_default_color_error">#CF6679</color>
+    <color name="design_dark_default_color_on_background">#FFFFFF</color>
+    <color name="design_dark_default_color_on_error">#000000</color>
+    <color name="design_dark_default_color_on_primary">#000000</color>
+    <color name="design_dark_default_color_on_secondary">#000000</color>
+    <color name="design_dark_default_color_on_surface">#FFFFFF</color>
+    <color name="design_dark_default_color_primary">#BA86FC</color>
+    <color name="design_dark_default_color_primary_dark">#000000</color>
+    <color name="design_dark_default_color_primary_variant">#3700B3</color>
+    <color name="design_dark_default_color_secondary">#03DAC6</color>
+    <color name="design_dark_default_color_secondary_variant">#03DAC6</color>
+    <color name="design_dark_default_color_surface">#121212</color>
+    <color name="design_default_color_background">#FFFFFF</color>
+    <color name="design_default_color_error">#B00020</color>
+    <color name="design_default_color_on_background">#000000</color>
+    <color name="design_default_color_on_error">#FFFFFF</color>
+    <color name="design_default_color_on_primary">#FFFFFF</color>
+    <color name="design_default_color_on_secondary">#000000</color>
+    <color name="design_default_color_on_surface">#000000</color>
+    <color name="design_default_color_primary">#6200EE</color>
+    <color name="design_default_color_primary_dark">#3700B3</color>
+    <color name="design_default_color_primary_variant">#3700B3</color>
+    <color name="design_default_color_secondary">#03DAC6</color>
+    <color name="design_default_color_secondary_variant">#018786</color>
+    <color name="design_default_color_surface">#FFFFFF</color>
+    <color name="design_fab_shadow_end_color">@android:color/transparent</color>
+    <color name="design_fab_shadow_mid_color">#14000000</color>
+    <color name="design_fab_shadow_start_color">#44000000</color>
+    <color name="design_fab_stroke_end_inner_color">#0A000000</color>
+    <color name="design_fab_stroke_end_outer_color">#0F000000</color>
+    <color name="design_fab_stroke_top_inner_color">#1AFFFFFF</color>
+    <color name="design_fab_stroke_top_outer_color">#2EFFFFFF</color>
+    <color name="design_snackbar_background_color">#323232</color>
+    <color name="mtrl_btn_text_color_disabled">#61000000</color>
+    <color name="mtrl_btn_transparent_bg_color">#00ffffff</color>
+    <color name="mtrl_scrim_color">#52000000</color>
+    <color name="mtrl_textinput_default_box_stroke_color">#6B000000</color>
+    <color name="mtrl_textinput_disabled_color">#1F000000</color>
+    <color name="mtrl_textinput_filled_box_default_background_color">#0A000000</color>
+    <color name="mtrl_textinput_focused_box_stroke_color">#00000000</color>
+    <color name="mtrl_textinput_hovered_box_stroke_color">#DE000000</color>
+    <dimen name="action_bar_size">16dp</dimen>
+    <dimen name="appcompat_dialog_background_inset">16dp</dimen>
+    <dimen name="default_dimension">100dp</dimen>
+    <dimen name="design_appbar_elevation">4dp</dimen>
+    <dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen>
+    <dimen name="design_bottom_navigation_active_item_min_width">96dp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size">14sp</dimen>
+    <dimen name="design_bottom_navigation_elevation">8dp</dimen>
+    <dimen name="design_bottom_navigation_height">56dp</dimen>
+    <dimen name="design_bottom_navigation_icon_size">24dp</dimen>
+    <dimen name="design_bottom_navigation_item_max_width">96dp</dimen>
+    <dimen name="design_bottom_navigation_item_min_width">56dp</dimen>
+    <dimen name="design_bottom_navigation_margin">8dp</dimen>
+    <dimen name="design_bottom_navigation_shadow_height">1dp</dimen>
+    <dimen name="design_bottom_navigation_text_size">12sp</dimen>
+    <dimen name="design_bottom_sheet_elevation">8dp</dimen>
+    <dimen name="design_bottom_sheet_modal_elevation">16dp</dimen>
+    <dimen name="design_bottom_sheet_peek_height_min">64dp</dimen>
+    <dimen name="design_fab_border_width">0.5dp</dimen>
+    <dimen name="design_fab_elevation">6dp</dimen>
+    <dimen name="design_fab_image_size">24dp</dimen>
+    <dimen name="design_fab_size_mini">40dp</dimen>
+    <dimen name="design_fab_size_normal">56dp</dimen>
+    <dimen name="design_fab_translation_z_hovered_focused">6dp</dimen>
+    <dimen name="design_fab_translation_z_pressed">6dp</dimen>
+    <dimen name="design_navigation_elevation">16dp</dimen>
+    <dimen name="design_navigation_icon_padding">32dp</dimen>
+    <dimen name="design_navigation_icon_size">24dp</dimen>
+    <dimen name="design_navigation_item_horizontal_padding">16dp</dimen>
+    <dimen name="design_navigation_item_icon_padding">32dp</dimen>
+    <dimen name="design_navigation_max_width">280dp</dimen>
+    <dimen name="design_navigation_padding_bottom">8dp</dimen>
+    <dimen name="design_navigation_separator_vertical_padding">8dp</dimen>
+    <dimen name="design_snackbar_action_inline_max_width">128dp</dimen>
+    <item format="float" name="design_snackbar_action_text_color_alpha" type="dimen">1.0</item>
+    <dimen name="design_snackbar_background_corner_radius">0dp</dimen>
+    <dimen name="design_snackbar_elevation">6dp</dimen>
+    <dimen name="design_snackbar_extra_spacing_horizontal">0dp</dimen>
+    <dimen name="design_snackbar_max_width">-1px</dimen>
+    <dimen name="design_snackbar_min_width">-1px</dimen>
+    <dimen name="design_snackbar_padding_horizontal">12dp</dimen>
+    <dimen name="design_

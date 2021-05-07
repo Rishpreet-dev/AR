@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AR</string>
+    <string name="error_taking_picture">Error Taking Picture</string>
+</resources>
